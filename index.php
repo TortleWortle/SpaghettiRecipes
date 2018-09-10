@@ -2,7 +2,6 @@
 session_start();
 if (!isset($_SESSION['🍝📜'])) $_SESSION['🍝📜'] = [];
 
-
 $🖊️ = "Content";
 
 // Current objective. (nothing)
